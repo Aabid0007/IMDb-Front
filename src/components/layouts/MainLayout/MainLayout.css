@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.movie_main_section{
+    min-height: 100vh;
+    background-color: #fff;
+    padding-top: 8px;
+}
+.color{
+    color: red;
+}

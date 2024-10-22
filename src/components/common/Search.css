@@ -1,0 +1,35 @@
+.search_box{
+    display: flex;
+    align-items: center;
+}
+.search_bar_section{
+    position: relative;
+}
+.search_bar_section input {
+    width: 695px;
+    padding: 10px 15px 8px 55px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+button.details {
+   padding: 7px 15px ;
+    border: none;
+    border-right: 1px solid grey;
+    background-color: #FFF;
+    position: absolute;
+    left: 0;
+    border-radius: 5px 0 0 5px;
+}
+.search_btn{
+    border: none;
+    padding: 2px;
+    background-color: #FFF;
+    position: absolute;
+    right: 8px;
+    border-radius: 5px;
+}
+input[type="text"]:focus-visible{
+   outline: 2px solid #f5c519 ;
+}

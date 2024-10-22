@@ -1,0 +1,75 @@
+.Header_section {
+    background-color: #121212;
+    color: #fff;
+}
+.container {
+    max-width: 1310px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.header_content {
+    padding: 8px 2px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.Heading_logo img {
+    width: 65px;
+}
+.Header_btn {
+    background: none;
+    border: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+.Header_btn h4{
+    margin: 0;
+}
+.Imdb_pro_icon {
+    padding: 0 5px;
+}
+.Imdb_pro_icon img {
+    width: 60px;
+}
+.right_border {
+    border: 1px solid #383838;
+    height: 2rem;
+    background-color: #383838;
+}
+.watchlist_btn {
+    background: none;
+    color: #fff;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.watchlist_btn i{
+    font-size: 21px;
+}
+.watchlist_btn h4{
+    margin: 0;
+}
+.signup_btn.btn{
+    border: none;
+    background: none;
+    color: #fff;
+    padding: 8px;
+}
+.btn{
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.btn:hover{
+    background-color: #252525;
+}
+.language_btn{
+    border: none;
+    background: none;
+    color: #fff;
+    padding: 8px;
+}

@@ -1,0 +1,12 @@
+.movie_content{
+    width: 66%;
+    padding: 0 6px;
+}
+.movie_page{
+    display: flex;
+    padding-bottom: 15px;
+}
+.movie_content img{
+    width: 100%;
+    object-fit: cover;
+}
